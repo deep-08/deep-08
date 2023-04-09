@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-08&label=Profile%20views&color=0e75b6&style=flat" alt="deep-08" /> </p>
 
+- 🔍 Curresntly I'm Searching for QA Engineer Job Oppurtunities
+
 - 🌱 I’m currently learning **Framework,API Testing**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-deepak.netlify.app/](https://myportfolio-deepak.netlify.app/)
