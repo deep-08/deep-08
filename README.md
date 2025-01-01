@@ -1,9 +1,4 @@
-<h1 align="left">👋 Hi, I'm Deepak Sudhakar</h1>
-<h3>
-<br>🎯 Software Tester | Bug Bounty Enthusiast<br>
-<br>💻 Passionate about delivering high-quality software with a focus on automation and testing excellence.<br>
-
-<br>🛠️ Skillset<br>
+<h3 align="left">👋 Hi, I'm Deepak Sudhakar<br>🎯 Software Tester | Bug Bounty Enthusiast<br><br>💻 Passionate about delivering high-quality software with a focus on automation and testing excellence.<br><br>🛠️ Skillset</h3>
 <ul>
   <li>Automation Tools: Selenium</li>
   <li>Programming Language: Java</li>
@@ -12,14 +7,20 @@
   <li>Bug Hunting: Bug Bounty Programs</li>
 </ul>
 
-<br>🌟 Highlights<br>
+<h3>🌟 Highlights</h3>
 <ul>
   <li>Expertise in building and maintaining hybrid automation frameworks.</li>
   <li>Proficient in using Selenium for functional and UI testing.</li>
   <li>Hands-on experience with Allure reporting for tracking and visualizing test results.</li>
   <li>Actively engaged in Bug Bounty Programs, identifying security flaws and vulnerabilities in applications.</li>
 </ul>
-</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deep-08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -54,5 +55,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/deep-08/deep-08/output/snake.svg" alt="Snake animation" />
 
 ###
