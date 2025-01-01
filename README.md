@@ -57,9 +57,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/deep-08/deep-08/output/snake.svg" alt="Snake animation" />
-
-###
