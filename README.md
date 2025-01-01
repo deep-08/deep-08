@@ -1,4 +1,25 @@
-<h1 align="left">👋 Hi, I'm Deepak Sudhakar</h1><h3><br>🎯 Software Tester | Bug Bounty Enthusiast<br><br>💻 Passionate about delivering high-quality software with a focus on automation and testing excellence.<br><br>🛠️ Skillset<br>Automation Tools: Selenium<br>Programming Language: Java<br>Frameworks: TestNG, Hybrid Framework<br>Reporting Tools: Allure<br>Bug Hunting: Bug Bounty Programs<br><br>🌟 Highlights<br>Expertise in building and maintaining hybrid automation frameworks.<br>Proficient in using Selenium for functional and UI testing.<br>Hands-on experience with Allure reporting for tracking and visualizing test results.<br>Actively engaged in Bug Bounty Programs, identifying security flaws and vulnerabilities in applications.</h3>
+<h1 align="left">👋 Hi, I'm Deepak Sudhakar</h1>
+<h3>
+<br>🎯 Software Tester | Bug Bounty Enthusiast<br>
+<br>💻 Passionate about delivering high-quality software with a focus on automation and testing excellence.<br>
+
+<br>🛠️ Skillset<br>
+<ul>
+  <li>Automation Tools: Selenium</li>
+  <li>Programming Language: Java</li>
+  <li>Frameworks: TestNG, Hybrid Framework</li>
+  <li>Reporting Tools: Allure</li>
+  <li>Bug Hunting: Bug Bounty Programs</li>
+</ul>
+
+<br>🌟 Highlights<br>
+<ul>
+  <li>Expertise in building and maintaining hybrid automation frameworks.</li>
+  <li>Proficient in using Selenium for functional and UI testing.</li>
+  <li>Hands-on experience with Allure reporting for tracking and visualizing test results.</li>
+  <li>Actively engaged in Bug Bounty Programs, identifying security flaws and vulnerabilities in applications.</li>
+</ul>
+</h3>
 
 ###
 
@@ -6,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
@@ -31,6 +52,7 @@
   <a href="https://www.linkedin.com/in/deepak-softwaretestengineer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
 ###
