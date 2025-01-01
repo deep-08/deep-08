@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm Deepak Sudhakar<br>🎯 Software Tester | Bug Bounty Enthusiast<br><br>💻 Passionate about delivering high-quality software with a focus on automation and testing excellence.<br><br>🛠️ Skillset</h3>
+<h1 align="left">👋 Hi, I'm Deepak Sudhakar</h1><h3><br>🎯 Software Tester | Bug Bounty Enthusiast<br><br>💻 Passionate about delivering high-quality software with a focus on automation and testing excellence.<br><br>🛠️ Skillset</h3>
 <ul>
   <li>Automation Tools: Selenium</li>
   <li>Programming Language: Java</li>
