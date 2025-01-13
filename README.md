@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **deepakoffl.08@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/deepak-softwaretestengineer]([http://linkedin.com/in/pramoddutta](https://www.linkedin.com/in/deepak-softwaretestengineer)
+- 📄 Know about my experiences [https://www.linkedin.com/in/deepak-softwaretestengineer](https://www.linkedin.com/in/deepak-softwaretestengineer)
 
 - ⚡ Fun fact **I'm Self Learn Automation Tester**
 
