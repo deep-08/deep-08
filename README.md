@@ -41,9 +41,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramoddutta&show_icons=true&locale=en" alt="pramoddutta" /></p>
 
-
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
